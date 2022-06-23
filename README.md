@@ -10,4 +10,4 @@ TECHDOGE is expected to become a potential new trend in this volatile market. Do
  
 - Web : https://techdoge.app
 
-- Twitter : twitter.com/techdogeapp
+- Twitter : https://twitter.com/techdogeapp
